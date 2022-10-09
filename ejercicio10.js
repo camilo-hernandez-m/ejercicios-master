@@ -1,5 +1,5 @@
 addEventListener ("DOMContentLoaded", ()=>{
-    //10. Escribir un algoritmo que permita obtener las raíces reales de la ecuación de segundo grado: A * x2 +b * x + c, siendo X un valor constante.
+    //10. Escribir un al2goritmo que permita obtener las raíces reales de la ecuación de segundo grado: A * x2 +b * x + c, siendo X un valor constante.
     //A*X**2+b*x+c siendo x un valor constante
     //from math import sqrt 
     let a=number(prompt(`ingrese el valor de (a):/n`));
