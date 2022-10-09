@@ -1,5 +1,5 @@
 addEventListener ("DOMContentLoaded", ()=>{
-    //14. Una farmacia aplica al precio de los remedios el 10% de descuento, hacer un programa que ingresando el costo de los medicamentos calcules el descuento y el precio final.
+    //14. Una farmacia aplic2a al precio de los remedios el 10% de descuento, hacer un programa que ingresando el costo de los medicamentos calcules el descuento y el precio final.
 
     //14 FARMACIA
     //datos de entrada
