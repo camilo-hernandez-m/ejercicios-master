@@ -1,7 +1,7 @@
 addEventListener ("DOMContentLoaded", ()=>{
     //15. Hacer un diagrama para convertir de grados centígrados a grados Fahrenheit.
 
-    //15 DE GRADOS CENTIGRADOS A GRADOS FAHRENHEIT
+    //15 DE GRADOS CENTI2GRADOS A GRADOS FAHRENHEIT
     //datos de entrada
     // F= (9/5)*c+32
     //procesos y operaciones
