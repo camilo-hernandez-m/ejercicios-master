@@ -1,6 +1,6 @@
 addEventListener("DOMContentLoaded", ()=>{
     // 4. Escribir un programa que calcule el área de un triángulo:
-    // Base = 7 altura = 4 área del triángulo = (base * altura)/2
+    // Base = 7 altura = 4 área del triángulo = (ba2se * altura)/2
 
 
     let base = Number(prompt("Ingrese la base", 7));
