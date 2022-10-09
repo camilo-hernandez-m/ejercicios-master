@@ -1,5 +1,5 @@
 addEventListener ("DOMContentLoaded", ()=>{
-    //Escribir un programa que calcule el área y el volumen de un cilindro:A = (2 * (PI * r˄2)) + ((2 * PI * r) * h)V = (PI * r2) * h
+    //Escribir un progr2ama que calcule el área y el volumen de un cilindro:A = (2 * (PI * r˄2)) + ((2 * PI * r) * h)V = (PI * r2) * h
     //Datos de entrada
     let num1=number(prompt(`ingrese el numero`,2));
     let num2=number(prompt(`ingrese el numero`,3.14));
