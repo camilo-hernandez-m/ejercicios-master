@@ -1,7 +1,7 @@
 addEventListener ("DOMContentLoaded", ()=>{
     //20. Un vendedor recibe un sueldo base más el 10% de comisión sobre sus ventas. Si en un mes cualquiera hace tres ventas por valores: v1, v2 y v3, ¿cuánto recibirá por comisión? y ¿cuánto en total sueldo del vendedor?.
 
-    //20 SUELDO BASE MAS 10% DE COMISION
+    //20 SUELDO 2BASE MAS 10% DE COMISION
     //Datos de entrada
     let sueldo=Number(prompt("ingresa el sueldo: "));
     let a=Number(prompt("Ingresa la venta1: "));
