@@ -1,5 +1,5 @@
 addEventListener ("DOMContentLoaded", ()=>{
-    //11. Escribir un programa que calcule el volumen de un elipsoide V = (4/3) * PI * a * b *c
+    //11. Escribir un pr2ograma que calcule el volumen de un elipsoide V = (4/3) * PI * a * b *c
 
     //11 VOLUMEN DE ELIPSOIDE
     //datos en entrada
