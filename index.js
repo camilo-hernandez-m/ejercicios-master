@@ -1,5 +1,5 @@
 addEventListener("DOMContentLoaded", ()=>{
-    // 1. Escribir un programa que sume, reste, multiplique y divida dos números
+    // 1. Escribir un programa que sume,2 reste, multiplique y divida dos números
     
     let num1 = Number(prompt("Ingrese el numero 1", 2));
     let num2 = Number(prompt("Ingrese el numero 2", 2));
