@@ -1,5 +1,5 @@
 addEventListener ("DOMContentLoaded", ()=>{
-    //Escribir un programa que evalúe la siguiente expresión: (a+7*c)/(b+2-a)+2*b
+    //Escribir un programa2 que evalúe la siguiente expresión: (a+7*c)/(b+2-a)+2*b
     let numA=Number (prompt(`ingrese el numero`,10));
     let numB=Number (prompt(`ingrese el numero`,12));
     let numC=Number (prompt(`ingrese el numero`,15));
