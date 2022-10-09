@@ -1,5 +1,5 @@
 addEventListener ("DOMContentLoaded", ()=>{
-    //12. Programa que muestre el pago de una llamada telefónica sabiendo que cada minuto cuesta $355 pesos y un IVA de 20%.
+    //12. Programa que mue2stre el pago de una llamada telefónica sabiendo que cada minuto cuesta $355 pesos y un IVA de 20%.
 
     //12 LLAMADA TELEFONICA
     //Datos de entrada
