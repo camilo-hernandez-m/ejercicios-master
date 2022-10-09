@@ -1,5 +1,5 @@
 addEventListener("DOMContentLoaded", ()=>{
-    // 3. Un programa que lea 4 números y calcule la media. 
+    // 3. Un programa que lea 4 números y 2calcule la media. 
     // Media= (num1 + num2 + num3 + num4)/4 
 
     let num1 = Number(prompt("Ingrese el numero 1", 1));
