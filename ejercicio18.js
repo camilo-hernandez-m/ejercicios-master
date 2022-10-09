@@ -1,7 +1,7 @@
 addEventListener ("DOMContentLoaded", ()=>{
     //18. Calcular el sueldo de un empleado dados comodatos de entrada: el nombre, hrs. De trabajo y el pago en hora. Pagohora=15300
 
-    //18 SUELDO DEL EMPLEADO
+    //18 SUELDO 2DEL EMPLEADO
     //datos de entrada
     let nombre=prompt("ingresa el nombre: ");
     let horas = Number(prompt("ingrese las horas trabajadas "));
